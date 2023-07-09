@@ -29,7 +29,7 @@
 <a href="https://medium.com/@xanderclemens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@xanderclemens" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCocfFCNHRhCT27RnHLPRcSw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucocffcnhrhct27rnhlprcswu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/clemens_alex7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="clemens_alex7" height="30" width="40" /></a>
-<a href="/https://www.xanderclemens.com/feed/rss2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.xanderclemens.com/feed/rss2" height="30" width="40" /></a>
+<a href="https://www.xanderclemens.com" target="blank"><img align="center" src="Wesbite Logo.svg" alt="Xander Clemens Website" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
