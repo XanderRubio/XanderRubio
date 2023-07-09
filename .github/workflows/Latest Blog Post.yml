@@ -6,7 +6,7 @@ jobs:
     update-readme-with-blog:
         name: Update this repo's README with latest blog posts
         runs-on: ubuntu-latest
-        end:
+        env:
             GH_TOKEN: ${{ secrets.GH_TOKEN }}
         steps:
             - uses: actions/checkout@v2
