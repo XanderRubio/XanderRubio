@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xanderrubio&label=Profile%20views&color=0e75b6&style=flat" alt="xanderrubio" /> </p>
 
-- 🔭 I’m currently working on [Solve Python HackerRank](https://gitlab.com/XanderRubio/solve-python-HackerRank)
+- 🔭 I’m currently working on [SOLVE PYTHON🐍 HACKERRANKER](https://gitlab.com/XanderRubio/solve-python-HackerRank)
 
 - 🌱 I’m currently learning **Spanish, Entrepreneurship and Generative AI**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **clemens.alex7@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1IyO5adOZSycdGaI0X8bTC9KA41hh-nVdYyGk_0WKT5Y/edit?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://docs.google.com/document/d/1IyO5adOZSycdGaI0X8bTC9KA41hh-nVdYyGk_0WKT5Y/edit?usp=sharing)
 
 - ⚡ Fun fact **In my free time I dance Tango🕺**
 
@@ -26,7 +26,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexanderclemens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexanderclemens" height="30" width="40" /></a>
-<a href="https://kaggle.com/alexander clemens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alexander clemens" height="30" width="40" /></a>
 <a href="https://medium.com/@xanderclemens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@xanderclemens" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCocfFCNHRhCT27RnHLPRcSw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucocffcnhrhct27rnhlprcswu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/clemens_alex7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="clemens_alex7" height="30" width="40" /></a>
