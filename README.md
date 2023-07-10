@@ -1,4 +1,4 @@
-<h1 align="center"><img align="center" src="Xander Clemens.gif" alt="clemens_alex7" height="100" width="100" /> I'm Xander Clemens</h1>
+<h1 align="center"><a href="https://www.xanderclemens.com" target="blank"><img align="center" src="Xander Clemens.gif" alt="clemens_alex7" height="100" width="100" /></a> I'm Xander Clemens</h1>
 <h align="left">Full Stack Software Engineer</h>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xanderrubio&label=Profile%20views&color=0e75b6&style=flat" alt="xanderrubio" /> </p>
@@ -21,7 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- currently working on displaying posts with workflow fetches 🛠️ 
+- Currently working on displaying posts with workflow fetches 🛠️
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
