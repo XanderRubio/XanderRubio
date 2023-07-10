@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Xander Clemens</h1>
-<h3 align="left">Full Stack Software Engineer</h3>
+<h1 align="center"><img align="center" src="Xander CLemens.gif" alt="clemens_alex7" height="40" width="40" /> I'm Xander Clemens</h1>
+<h align="left">Full Stack Software Engineer</h>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xanderrubio&label=Profile%20views&color=0e75b6&style=flat" alt="xanderrubio" /> </p>
 
