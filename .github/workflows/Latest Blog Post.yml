@@ -17,3 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.xanderclemens.com/feed/rss2"
+          template: "<tr><td>$title</td><td>$url</td></tr>"
