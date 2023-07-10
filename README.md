@@ -23,7 +23,7 @@
 ### Latest YouTube Videos
 <div align="center">
 
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCocfFCNHRhCT27RnHLPRcSw)
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCocfFCNHRhCT27RnHLPRcSw?sub_confirmation=1)
 
 </div>
 
