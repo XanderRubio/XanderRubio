@@ -22,6 +22,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Discover Habanos High Coffee in Medellin, Colombia - The Perfect Spot for Your Next Business Meeting](https://www.youtube.com/watch?v=9HkltCyXwQQ)
+- [The End of the Road: My Final Week at Hack Reactor’s 19-Week Coding Bootcamp](https://www.youtube.com/watch?v=e94ZzbgWpM8)
+- [Week 18 — Sorting My Way Through Software Engineering: A Week of Learning and Action](https://www.youtube.com/watch?v=ddWeUv1sQlk)
+- [Week 17 Hack Reactor documenting data structure, algorithms and finishing our Module 3 project](https://www.youtube.com/watch?v=SmCC8UoYcCY)
+- [An Alaskans Journey to Baptism in Colombia: My Experience in Santa Rosa de Cabal](https://www.youtube.com/watch?v=OeCeuB80dfI)
 <!-- YOUTUBE:END -->
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
