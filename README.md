@@ -20,9 +20,11 @@
 
 - ⚡ Fun fact **In my free time I dance Tango🕺**
 
+### Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- Currently working on displaying posts with workflow fetches 🛠️
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect With Me:</h3>
