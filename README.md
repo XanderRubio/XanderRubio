@@ -21,12 +21,16 @@
 - ⚡ Fun fact **In my free time I dance Tango🕺**
 
 ### Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Discover Habanos High Coffee in Medellin, Colombia - The Perfect Spot for Your Next Business Meeting](https://www.youtube.com/watch?v=9HkltCyXwQQ)
-- [The End of the Road: My Final Week at Hack Reactor’s 19-Week Coding Bootcamp](https://www.youtube.com/watch?v=e94ZzbgWpM8)
-- [Week 18 — Sorting My Way Through Software Engineering: A Week of Learning and Action](https://www.youtube.com/watch?v=ddWeUv1sQlk)
-- [Week 17 Hack Reactor documenting data structure, algorithms and finishing our Module 3 project](https://www.youtube.com/watch?v=SmCC8UoYcCY)
-- [An Alaskans Journey to Baptism in Colombia: My Experience in Santa Rosa de Cabal](https://www.youtube.com/watch?v=OeCeuB80dfI)
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9HkltCyXwQQ"><img width="140px" src="https://i.ytimg.com/vi/9HkltCyXwQQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=9HkltCyXwQQ">Discover Habanos High Coffee in Medellin, Colombia - The Perfect Spot for Your Next Business Meeting</a><br/>Jul 5, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=e94ZzbgWpM8"><img width="140px" src="https://i.ytimg.com/vi/e94ZzbgWpM8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=e94ZzbgWpM8">The End of the Road: My Final Week at Hack Reactor’s 19-Week Coding Bootcamp</a><br/>Jun 25, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ddWeUv1sQlk"><img width="140px" src="https://i.ytimg.com/vi/ddWeUv1sQlk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ddWeUv1sQlk">Week 18 — Sorting My Way Through Software Engineering: A Week of Learning and Action</a><br/>Jun 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=SmCC8UoYcCY"><img width="140px" src="https://i.ytimg.com/vi/SmCC8UoYcCY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SmCC8UoYcCY">Week 17 Hack Reactor documenting data structure, algorithms and finishing our Module 3 project</a><br/>Jun 12, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=OeCeuB80dfI"><img width="140px" src="https://i.ytimg.com/vi/OeCeuB80dfI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OeCeuB80dfI">An Alaskans Journey to Baptism in Colombia: My Experience in Santa Rosa de Cabal</a><br/>Jun 12, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
