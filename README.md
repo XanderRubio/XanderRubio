@@ -42,8 +42,7 @@
 
 ---
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td>Discover Habanos High Coffee in Medellin, Colombia - The Perfect Spot for Your Next Business Meeting</td><td>https://www.xanderclemens.com/discover-habanos-high-coffee-in-medellin-colombia-the-perfect-spot-for-your-next-business-meeting</td></tr><tr><td>The End of the Road: My Final Week at Hack Reactor’s 19-Week Coding Bootcamp</td><td>https://www.xanderclemens.com/the-end-of-the-road-my-final-week-at-hack-reactors-19-week-coding-bootcamp</td></tr><tr><td>Week 18 — Sorting My Way Through Software Engineering: A Week of Learning and Action</td><td>https://www.xanderclemens.com/week-18-sorting-my-way-through-software-engineering-a-week-of-learning-and-action</td></tr><tr><td>From Alaska to Santa Rosa de Cabal, Colombia: My Baptism Experience in a New Culture</td><td>https://www.xanderclemens.com/from-alaska-to-santa-rosa-de-cabal-colombia-my-baptism-experience-in-a-new-culture</td></tr><tr><td>Full stack application build out and other learning from week 17 of Hack Reactor.</td><td>https://www.xanderclemens.com/full-stack-application-build-out-and-other-learning-from-week-17-of-hack-reactor</td></tr><!-- BLOG-POST-LIST:END -->
 
 ---
 <h3 align="left">Connect With Me:</h3>
