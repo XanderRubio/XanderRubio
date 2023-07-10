@@ -21,6 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- currently working on displaying posts with workflow fetches 🛠️ 
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
