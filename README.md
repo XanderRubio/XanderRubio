@@ -1,10 +1,14 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2U2bWpkNnlpeDlnbHhrZWJ3NzF5bTRod3lhMGZndDhrazRzNHNoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k7uYfGvphdTQNSIPzp/giphy.gif" alt="Demo of my CodeSandbox project" width="1000"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2U2bWpkNnlpeDlnbHhrZWJ3NzF5bTRod3lhMGZndDhrazRzNHNoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k7uYfGvphdTQNSIPzp/giphy.gif" alt="Xander Clemens" width="1000"/> <!-- Made my own gif -->
+
+
+  
 <h1 align="center"><a href="https://www.xanderclemens.com" target="blank"><img align="center" src="Xander Clemens.gif" alt="clemens_alex7" height="100" width="100" /></a> I'm Xander Clemens</h1>
 <h2 align="left">Full Stack Software Engineer</h2>
-<h align="left">🚨While you're here, I want to let you know that all my commits are on my <a href="https://gitlab.com/https://gitlab.com/XanderRubio">my GitLab profile</a>.. So if you want to see what I'm working on, head over to my GitLab page and check out my latest projects and contributions. Thanks for stopping by!🚨
-</h>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xanderrubio&label=Profile%20views&color=0e75b6&style=flat" alt="xanderrubio" /> <a href="https://www.linkedin.com/in/alexanderclemens" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://medium.com/@xanderclemens" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=yellow" height="21" width="70" /> <a href="https://gitlab.com/XanderRubio" target="_blank"> <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%2312100E.svg?&style=for-the-badge&logo=gitlab&logoColor=orange" height="21" width="70" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xanderrubio&label=Profile%20views&color=0e75b6&style=flat" alt="xanderrubio" /> <a href="https://www.linkedin.com/in/alexanderclemens" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://medium.com/@xanderclemens" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=yellow" height="21" width="70" /> <a href="https://gitlab.com/XanderRubio" target="_blank"> <img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=orange" height="21" width="70" /></a><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=whie" alt="Mac OS" height="21" width="70"/><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Google Chrome" height="21" width="90"/>
+
+  <h align="center">🚨While you're here, I want to let you know that all my commits are on my <a href="https://gitlab.com/https://gitlab.com/XanderRubio">my GitLab profile</a>. So if you want to see what I'm working on, head over to <a href="https://gitlab.com/https://gitlab.com/XanderRubio">my GitLab profile</a> and check out my latest projects and contributions. Thanks for stopping by!🚨
+</h>
 
 
 - 🔭 I’m currently working on [SOLVE PYTHON🐍 HACKERRANKER](https://gitlab.com/XanderRubio/solve-python-HackerRank)
@@ -21,7 +25,7 @@
 
 - 📄 Know about my experiences [RESUME](https://docs.google.com/document/d/1IyO5adOZSycdGaI0X8bTC9KA41hh-nVdYyGk_0WKT5Y/edit?usp=sharing)
 
-- ⚡ Fun fact **In my free time I dance Tango🕺**
+- ⚡ Fun fact **In my free time, I dance Tango🕺**
 
 ---
 
