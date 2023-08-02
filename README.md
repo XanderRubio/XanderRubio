@@ -112,7 +112,7 @@ ForrestKnight</a> on "I Made a Custom GitHub Profile README Portfolio (and you c
 - <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">GitHub repository</a> - To assist with displaying custom display badges from numerous categories by <a href="https://github.com/alexandresanlim">Alexandre Sanlim</a>
 
 - <a href="https://github.com/artysta/duolingo">GitHub repository</a> -  By <a href="https://github.com/artysta">Adrian Kurek</a> that I used code to hack and display my Duolingo profile learning streak
-- 
+
 - <a href="https://www.canva.com/">Canva</a> - Create custom imagery and save to create then GIFS that are under the memory limit when uploading
 
 - <a href="https://giphy.com/ ">Giphy</a> - Used to create GIFS from images on <a href="https://www.canva.com/">Canva</a> to display
