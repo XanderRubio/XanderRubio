@@ -92,27 +92,27 @@
 </h>
 <p></>
 
-- https://github.com/gautamkrishnar/blog-post-workflow - Github repository by <a href="https://github.com/gautamkrishnar">Gautam krishna R</a> that assisted in building out my workflows for displaying YoutTube and Blog posts.
+- <a href="https://github.com/gautamkrishnar/blog-post-workflowgithub-readme-medium-recent-article">GitHub repository</a> - By <a href="https://github.com/gautamkrishnar">Gautam krishna R</a> that assisted in building out my workflows for displaying YoutTube and Blog posts
 
-- https://github.com/bxcodec/github-readme-medium-recent-article - Github repository by <a href="https://github.com/bxcodec">Iman Tumorang</a> that assisted in helping to build the fetch ability for displaying Medium articles on the markdown file.
+- <a href="https://github.com/bxcodec/github-readme-medium-recent-article">GitHub repository</a> - By <a href="https://github.com/bxcodec">Iman Tumorang</a> that assisted in helping to build the fetch ability for displaying Medium articles on the markdown file
 
-- https://rahuldkjain.github.io/gh-profile-readme-generator/ - GitHub Profile README Generator by <a href="https://github.com/rahuldkjain">Rahul Jain</a>.
+- <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">GitHub repository</a> - By <a href="https://github.com/rahuldkjain">Rahul Jain</a> to assist with generating GitHub README generator
 
-- https://www.youtube.com/watch?v=9A8sQZDRn5o&t=1s - YouTube video from <a href="https://www.youtube.com/@fknight">
+- <a href="https://www.youtube.com/watch?v=9A8sQZDRn5o&t=1s">YouTube Video</a> - By <a href="https://www.youtube.com/@fknight">
 ForrestKnight</a> on "I Made a Custom GitHub Profile README Portfolio (and you can, too)"
 
-- https://www.youtube.com/watch?v=ECuqb5Tv9qI&t=272s - YouTube video from <a href="https://www.youtube.com/@codeSTACKr">codeSTACKr</a> on "Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions"
+- <a href="https://www.youtube.com/watch?v=ECuqb5Tv9qI&t=272s">YouTube Video</a> - By <a href="https://www.youtube.com/@codeSTACKr">codeSTACKr</a> on "Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions"
 
-- https://www.youtube.com/watch?v=n6d4KHSKqGk - YouTube video from <a href="https://www.youtube.com/@codeSTACKr">codeSTACKr</a> on "UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify"
+- <a href="https://www.youtube.com/watch?v=n6d4KHSKqGk">YouTube Video</a> - By <a href="https://www.youtube.com/@codeSTACKr">codeSTACKr</a> on "UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify"
 
-- https://zzetao.github.io/awesome-github-profile/ - Website that host 100s of awesome looking Github READMEs for inspiration. In addition you can add your profile to this site and repository by <a href="https://github.com/abhisheknaiidu">Abhishek Naidu</a>
+- <a href="https://zzetao.github.io/awesome-github-profile/">Website</a> - Host 100s of awesome looking GitHub READMEs for inspiration. In addition you can add your profile to this site and repository by <a href="https://github.com/abhisheknaiidu">Abhishek Naidu</a>
 
-- https://github.com/badges/shields - Github repository by <a href="https://github.com/badges">Shields.io</a> that assisted with displaying custom display badges from numerous categories
+- <a href="https://github.com/badges/shields">GitHub repository</a> - By <a href="https://github.com/badges">Shields.io</a> that assisted with displaying custom display badges from numerous categories
 
-- https://github.com/alexandresanlim/Badges4-README.md-Profile - Another Github repository to assist with displaying custom display badges from numerous categories by <a href="https://github.com/alexandresanlim">Alexandre Sanlim</a>
+- <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">GitHub repository</a> - To assist with displaying custom display badges from numerous categories by <a href="https://github.com/alexandresanlim">Alexandre Sanlim</a>
 
-- https://github.com/artysta/duolingo - GitHub repository by <a href="https://github.com/artysta">Adrian Kurek</a> that I used code to hack and display my Duolingo profile learning streak
+- <a href="https://github.com/artysta/duolingo">GitHub repository</a> -  By <a href="https://github.com/artysta">Adrian Kurek</a> that I used code to hack and display my Duolingo profile learning streak
 
-- https://www.canva.com/ - Create custom imagery and saved to then create GIFS that are under the memory limit
+- <a href="https://www.canva.com/">Canva</a> - Create custom imagery and saved to then create GIFS that are under the memory limit
 
-- https://giphy.com/ - Used to create GIFS from images on Canva to display
+- <a href="https://giphy.com/ ">Giphy</a> - Used to create GIFS from images on <a href="https://www.canva.com/">Canva</a> to display
