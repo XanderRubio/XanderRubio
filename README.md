@@ -94,7 +94,7 @@
 
 - <a href="https://github.com/gautamkrishnar/blog-post-workflowgithub-readme-medium-recent-article">GitHub repository</a> - By <a href="https://github.com/gautamkrishnar">Gautam krishna R</a> that assisted in building out my workflows for displaying YoutTube and Blog posts
 
-- <a href="https://github.com/bxcodec/github-readme-medium-recent-article">GitHub repository</a> - By <a href="https://github.com/bxcodec">Iman Tumorang</a> that assisted in helping to build the fetch ability for displaying Medium articles on the markdown file
+- <a href="https://github.com/bxcodec/github-readme-medium-recent-article">GitHub repository</a> - By <a href="https://github.com/bxcodec">Iman Tumorang</a> that assisted in helping to build the fetching ability for displaying Medium articles on the markdown file
 
 - <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">GitHub repository</a> - By <a href="https://github.com/rahuldkjain">Rahul Jain</a> to assist with generating GitHub README generator
 
@@ -105,14 +105,14 @@ ForrestKnight</a> on "I Made a Custom GitHub Profile README Portfolio (and you c
 
 - <a href="https://www.youtube.com/watch?v=n6d4KHSKqGk">YouTube Video</a> - By <a href="https://www.youtube.com/@codeSTACKr">codeSTACKr</a> on "UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify"
 
-- <a href="https://zzetao.github.io/awesome-github-profile/">Website</a> - Host 100s of awesome looking GitHub READMEs for inspiration. In addition you can add your profile to this site and repository by <a href="https://github.com/abhisheknaiidu">Abhishek Naidu</a>
+- <a href="https://zzetao.github.io/awesome-github-profile/">Website</a> - Host 100s of awesome looking GitHub READMEs for inspiration. In addition, you can add your profile to this site and repository by <a href="https://github.com/abhisheknaiidu">Abhishek Naidu</a>
 
 - <a href="https://github.com/badges/shields">GitHub repository</a> - By <a href="https://github.com/badges">Shields.io</a> that assisted with displaying custom display badges from numerous categories
 
 - <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">GitHub repository</a> - To assist with displaying custom display badges from numerous categories by <a href="https://github.com/alexandresanlim">Alexandre Sanlim</a>
 
 - <a href="https://github.com/artysta/duolingo">GitHub repository</a> -  By <a href="https://github.com/artysta">Adrian Kurek</a> that I used code to hack and display my Duolingo profile learning streak
-
-- <a href="https://www.canva.com/">Canva</a> - Create custom imagery and saved to then create GIFS that are under the memory limit
+- 
+- <a href="https://www.canva.com/">Canva</a> - Create custom imagery and save to create then GIFS that are under the memory limit when uploading
 
 - <a href="https://giphy.com/ ">Giphy</a> - Used to create GIFS from images on <a href="https://www.canva.com/">Canva</a> to display
