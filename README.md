@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2U2bWpkNnlpeDlnbHhrZWJ3NzF5bTRod3lhMGZndDhrazRzNHNoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k7uYfGvphdTQNSIPzp/giphy.gif" alt="Xander Clemens" width="1000"/> <!-- Made my own gif -->
 
 
-  
+
 <h1 align="center"><a href="https://www.xanderclemens.com" target="blank"><img align="center" src="Xander Clemens.gif" alt="clemens_alex7" height="100" width="100" /></a> I'm Xander Clemens</h1>
 <h2 align="left">Full Stack Software Engineer</h2>
 
@@ -13,7 +13,9 @@
 
 - 🔭 I’m currently working on [HackChallenger🐍](https://gitlab.com/XanderRubio/HackChallenger)
 
-- 🌱 I’m currently learning **Spanish🇨🇴, Entrepreneurship and Generative AI**
+- 🌱 I’m currently learning **Spanish🇨🇴(using Duolingo), Entrepreneurship and Generative AI**
+
+- [![artysta's GitHub Statistics](https://artysta-cloud.vercel.app/api/duolingo/statistics?user=AlexanderC678040&renderTitle=false&fields=streak,totalXp,totalCrowns,learningLanguage)](https://github.com/artysta/artysta-cloud)
 
 - 👨‍💻 All of my projects are available at [MY PORTFOLIO WEBSITE](https://www.xanderclemens.com/portfolio)
 
@@ -28,6 +30,7 @@
 - ⚡ Fun fact **In my free time, I dance Tango🕺**
 
 ---
+
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
