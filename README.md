@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Spanish🇨🇴(using Duolingo), Entrepreneurship and Generative AI**
 
-- [![artysta's GitHub Statistics](https://artysta-cloud.vercel.app/api/duolingo/statistics?user=AlexanderC678040&renderTitle=false&fields=streak,totalXp,totalCrowns,learningLanguage)](https://github.com/artysta/artysta-cloud)
+  [![artysta's GitHub Statistics](https://artysta-cloud.vercel.app/api/duolingo/statistics?user=AlexanderC678040&renderTitle=false&fields=streak,totalXp,totalCrowns,learningLanguage)](https://github.com/artysta/artysta-cloud)
 
 - 👨‍💻 All of my projects are available at [MY PORTFOLIO WEBSITE](https://www.xanderclemens.com/portfolio)
 
