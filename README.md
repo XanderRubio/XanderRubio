@@ -11,7 +11,7 @@
 </h>
 
 
-- 🔭 I’m currently working on [HackChallenger🐍](https://gitlab.com/XanderRubio/HackChallenger)
+- 🔭 I’m currently working on [HackChallenger🐍](https://gitlab.com/XanderRubio/HackChallenger) & [Before I Die Code](https://github.com/BeforeIDieCode/BeforeIDieAchievements)
 
 - 🌱 I’m currently learning **Spanish🇨🇴(using Duolingo), Entrepreneurship and Generative AI**
 
