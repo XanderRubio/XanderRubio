@@ -56,7 +56,7 @@
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-RPegKp4zSc"><img width="140px" src="https://i.ytimg.com/vi/-RPegKp4zSc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-RPegKp4zSc">Thanking the Before I Die Code Contributors</a><br/>Aug 22, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=-RPegKp4zSc">Thank You to the Before I Die Code Contributors for this week 👏🏻</a><br/>Aug 22, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xiszqfD_W6U"><img width="140px" src="https://i.ytimg.com/vi/xiszqfD_W6U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xiszqfD_W6U">Announcing My New Open Source Project - Share Your Developer Bucket List Before You Die! 💻</a><br/>Aug 16, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=9HkltCyXwQQ"><img width="140px" src="https://i.ytimg.com/vi/9HkltCyXwQQ/mqdefault.jpg"></a></td>
