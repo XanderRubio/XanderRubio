@@ -55,7 +55,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-RPegKp4zSc"><img width="140px" src="https://i.ytimg.com/vi/-RPegKp4zSc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=B2R5mjCQrs4"><img width="140px" src="https://i.ytimg.com/vi/B2R5mjCQrs4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=B2R5mjCQrs4">Week 2 Thank You Before I Die Code Open Source Project</a><br/>Aug 29, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-RPegKp4zSc"><img width="140px" src="https://i.ytimg.com/vi/-RPegKp4zSc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-RPegKp4zSc">Thank You to the Before I Die Code Contributors for this week 👏🏻</a><br/>Aug 22, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xiszqfD_W6U"><img width="140px" src="https://i.ytimg.com/vi/xiszqfD_W6U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xiszqfD_W6U">Announcing My New Open Source Project - Share Your Developer Bucket List Before You Die! 💻</a><br/>Aug 16, 2023</td></tr></table>
@@ -63,8 +65,6 @@
 <td><a href="https://www.youtube.com/watch?v=9HkltCyXwQQ">Discover Habanos High Coffee in Medellin, Colombia - The Perfect Spot for Your Next Business Meeting</a><br/>Jul 5, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=e94ZzbgWpM8"><img width="140px" src="https://i.ytimg.com/vi/e94ZzbgWpM8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=e94ZzbgWpM8">The End of the Road: My Final Week at Hack Reactor’s 19-Week Coding Bootcamp</a><br/>Jun 25, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ddWeUv1sQlk"><img width="140px" src="https://i.ytimg.com/vi/ddWeUv1sQlk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ddWeUv1sQlk">Week 18 — Sorting My Way Through Software Engineering: A Week of Learning and Action</a><br/>Jun 20, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
