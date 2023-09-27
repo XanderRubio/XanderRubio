@@ -56,7 +56,7 @@
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HRpd35XW3UI"><img width="140px" src="https://i.ytimg.com/vi/HRpd35XW3UI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=HRpd35XW3UI">&quot;Gratitude Unleashed: Celebrating a Week of Stellar Contributions to Before I Die Code&quot;</a><br/>Sep 27, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=HRpd35XW3UI">Gratitude Unleashed: Celebrating a Week of Stellar Contributions to Before I Die Code</a><br/>Sep 27, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0e--d2Hub2s"><img width="140px" src="https://i.ytimg.com/vi/0e--d2Hub2s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0e--d2Hub2s">Before I Die Code: Week 5 Highlights and Shoutouts to Our Contributors from this week</a><br/>Sep 19, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6JWHFjLkDIk"><img width="140px" src="https://i.ytimg.com/vi/6JWHFjLkDIk/mqdefault.jpg"></a></td>
