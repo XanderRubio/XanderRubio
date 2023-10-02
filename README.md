@@ -27,7 +27,6 @@
 
 ---
 
-
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexanderclemens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexanderclemens" height="50" width="50" /></a>
@@ -112,3 +111,9 @@ ForrestKnight</a> on "I Made a Custom GitHub Profile README Portfolio (and you c
 - <a href="https://www.canva.com/">Canva</a> - Create custom imagery and save to create then GIFS that are under the memory limit when uploading
 
 - <a href="https://giphy.com/ ">Giphy</a> - Used to create GIFS from images on <a href="https://www.canva.com/">Canva</a> to display
+
+---
+<h3 align="center">Badges <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Military%20Medal.png" alt="Military Medal" width="25" height="25" /></h3>
+<p></>
+
+[![An image of @xanderrubio's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xanderrubio)](https://holopin.io/@xanderrubio)
