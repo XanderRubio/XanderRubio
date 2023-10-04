@@ -54,7 +54,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HRpd35XW3UI"><img width="140px" src="https://i.ytimg.com/vi/HRpd35XW3UI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=wcNb9h-rwy4"><img width="140px" src="https://i.ytimg.com/vi/wcNb9h-rwy4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wcNb9h-rwy4">Latest Hacktoberfest Project Features &amp; Thanks to Contributors</a><br/>Oct 4, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=HRpd35XW3UI"><img width="140px" src="https://i.ytimg.com/vi/HRpd35XW3UI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HRpd35XW3UI">Gratitude Unleashed: Celebrating a Week of Stellar Contributions to Before I Die Code</a><br/>Sep 27, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0e--d2Hub2s"><img width="140px" src="https://i.ytimg.com/vi/0e--d2Hub2s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0e--d2Hub2s">Before I Die Code: Week 5 Highlights and Shoutouts to Our Contributors from this week</a><br/>Sep 19, 2023</td></tr></table>
@@ -62,8 +64,6 @@
 <td><a href="https://www.youtube.com/watch?v=6JWHFjLkDIk">Before I Die Code: Week 4 Highlights and Shoutouts to Our Contributors</a><br/>Sep 12, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=UOgoCJ55E-Q"><img width="140px" src="https://i.ytimg.com/vi/UOgoCJ55E-Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UOgoCJ55E-Q">Before I Die Code: Week 3 Roundup and Gratitude for Our Open Source Contributors</a><br/>Sep 4, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=B2R5mjCQrs4"><img width="140px" src="https://i.ytimg.com/vi/B2R5mjCQrs4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=B2R5mjCQrs4">Week 2 Thank You Before I Die Code Open Source Project</a><br/>Aug 29, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
