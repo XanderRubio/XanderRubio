@@ -3,11 +3,11 @@
 
 
 <h1 align="center"><a href="https://www.xanderclemens.com" target="blank"><img align="center" src="Xander Clemens.gif" alt="clemens_alex7" height="100" width="100" /></a> I'm Xander Clemens</h1>
-<h2 align="left">Full Stack Software Engineer</h2>
+<h2 align="left">Business Development Representative & Full Stack Software Engineer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xanderrubio&label=Profile%20views&color=0e75b6&style=flat" alt="xanderrubio" /> <a href="https://www.linkedin.com/in/alexanderclemens" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://medium.com/@xanderclemens" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=yellow" height="21" width="70" /> <a href="https://gitlab.com/XanderRubio" target="_blank"> <img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=orange" height="21" width="70" /></a><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=whie" alt="Mac OS" height="21" width="70"/><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Google Chrome" height="21" width="90"/>
 
-- 🔭 I’m currently working on [HackChallenger🐍](https://gitlab.com/XanderRubio/HackChallenger) & [Before I Die Code](https://github.com/BeforeIDieCode/BeforeIDieAchievements)
+- 🔭 I’m currently working, improving and growing the community of [Before I Die Code](https://github.com/BeforeIDieCode/BeforeIDieAchievements)
 
 - 🌱 I’m currently learning **Spanish🇨🇴(using Duolingo), Entrepreneurship and Generative AI**
 
